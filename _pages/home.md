@@ -16,11 +16,10 @@ feature_row:
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/cardano-1.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "www.bbc.co.uk"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/cardano-1.jpg
