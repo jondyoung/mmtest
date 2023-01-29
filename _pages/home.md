@@ -19,7 +19,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "www.bbc.co.uk"
+    url: "https://www.bbc.co.uk"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/cardano-1.jpg
