@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Jon Young"
-  avatar : "/assets/images/Jonphoto.jpg"
+  avatar : "/assets/images/jonphoto.jpg"
   bio    : "Cardano and football nut."
   links:
     - label: "Website"
