@@ -6,7 +6,7 @@ date: 2023-01-29T14:00:00-00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/pitch.jpg
+  overlay_image: /assets/images/pitch-1280.jpg
 excerpt: "The Cardano stake pool for all footy fans!"
 intro: 
   - excerpt: 'Cardano and football, why not!'
